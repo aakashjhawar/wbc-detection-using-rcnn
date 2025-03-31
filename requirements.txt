@@ -1,6 +1,6 @@
 h5py
 tensorflow
-Keras==2.13.1
+Keras==3.9.0
 numpy
 opencv-python
 sklearn
